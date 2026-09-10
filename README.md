@@ -52,7 +52,6 @@ Detects 13 frameworks → routes to
 Vercel/Render → zero config.
 AI diagnoses failed builds.
 
-`10x faster` `Gemini API`
 
 ![](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00F0FF)
 ![](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=39FF14)
@@ -68,7 +67,7 @@ Unsupervised ML catching
 irregular transactions —
 82–85% accuracy, live dashboard.
 
-`<4 sec runtime` `Plotly`
+
 
 ![](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=FFD700)
 ![](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=FF00E6)
