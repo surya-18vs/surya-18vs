@@ -1,150 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2AFADF,75:7928CA,100:FF0080&height=260&section=header&text=SURYA%20SARAVANAN&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%2F%2F%20Full-Stack%20%2B%20Machine%20Learning&descAlignY=52&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=1&pause=99999&color=39FF14&center=true&vCenter=true&width=800&height=90&lines=%3C+SURYA_SARAVANAN+%2F%3E" alt="Glitch Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&duration=2200&pause=900&color=FF0080&center=true&vCenter=true&width=750&lines=BUILDING+DeployX+%E2%80%A2+FINORA+%E2%80%A2+RELAYIQ;10x+FASTER+DEPLOYS.+ZERO+CONFIG.;LEETCODE+KNIGHT+%E2%80%A2+TOP+8%25+WORLDWIDE;LET'S+SHIP+SOMETHING+INSANE" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=SYSTEM%3A+full-stack.exe+%2B+machine_learning.dll;STATUS%3A+shipping+DeployX+%2F+Finora+%2F+RelayIQ;RANK%3A+LeetCode+Knight+%E2%80%94+2002+%E2%80%94+top+8%25;MODE%3A+open_to_internships+%3D+TRUE" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-FF0080?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/LEETCODE-KNIGHT%202002-2AFADF?style=for-the-badge&labelColor=000000"/>
-<img src="https://komarev.com/ghpvc/?username=surya-18vs&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS&labelColor=000000"/>
+<img src="https://img.shields.io/badge/-●_ONLINE-39FF14?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/KNIGHT-2002-FF00E6?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://komarev.com/ghpvc/?username=surya-18vs&style=for-the-badge&color=00D9FF&label=VIEWS&labelColor=0a0a0a"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/svg/Bottom.svg" width="100%"/>
+```ansi
+[0;35m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;36m│  root@surya:~$ [0;32mcat about.txt[0m                                         [0;35m│[0m
+[0;35m└──────────────────────────────────────────────────────────────────┘[0m
+```
 
-<table width="100%">
+CS undergrad at Chennai Institute of Technology (CGPA 8.02) — building
+full-stack systems on the MERN stack, wired up with applied ML.
+Not writing tutorials. Shipping tools that actually run.
+
+Two internships deep — AI/ML at **Contus Tech**, full-stack at
+**Infologia Technologies**. LeetCode Knight, rated 2002, top 8%
+globally, 600+ problems cleared.
+
+<br/>
+
+```ansi
+[0;35m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;36m│  root@surya:~$ [0;32mls ./projects/[0m                                        [0;35m│[0m
+[0;35m└──────────────────────────────────────────────────────────────────┘[0m
+```
+
+<table width="100%" border="0">
 <tr>
-<td width="60%" valign="top">
+<td width="33%" valign="top">
 
-## THE PITCH
+```
+▓▓▓ DEPLOYX ▓▓▓
+```
+Deployment automation.
+Detects 13 frameworks, routes
+to Vercel/Render, zero config.
+AI diagnoses failed builds.
 
-I build full-stack products powered by ML — not tutorials, actual
-shipped tools. CS undergrad at Chennai Institute of Technology
-(CGPA 8.02), stacking internships in AI/ML and full-stack dev,
-and grinding DSA hard enough to hit **Knight** on LeetCode.
+`10x faster` `Gemini API`
 
-If it involves React, Node, Python, or a model that needs to
-actually work in production — I'm in.
+![](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00D9FF)
+![](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=39FF14)
 
 </td>
-<td width="40%" valign="top">
-
-## THE STATS
+<td width="33%" valign="top">
 
 ```
-Education    B.E. CSE — 8.02 CGPA
-Rating       LeetCode Knight (2002)
-Global Rank  Top 8%
-Problems     600+
-Location     Chennai, India
-Status       Internship-ready
+▓▓▓ FINORA ▓▓▓
 ```
+Anomaly detection engine.
+Unsupervised ML catching
+irregular transactions.
+82-85% accuracy, live dashboard.
+
+`<4 sec runtime` `Plotly`
+
+![](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD700)
+![](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=FF00E6)
+
+</td>
+<td width="33%" valign="top">
+
+```
+▓▓▓ RELAYIQ ▓▓▓
+```
+Support-continuity platform.
+Multi-agent risk triage —
+24/7 autonomous resolution,
+human review on high-risk.
+
+`Vite 8` `Figma`
+
+![](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00D9FF)
+![](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=39FF14)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/svg/Bottom.svg" width="100%"/>
-
-## THE BUILDS
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### ⟶ DEPLOYX
-**Deployment, but instant.**
-
-Auto-detects 13 frameworks, routes to Vercel or Render with zero
-config, and diagnoses failed builds with AI so you're not
-debugging logs at 2am.
-
-![](https://img.shields.io/badge/10x_FASTER-FF0080?style=flat-square&labelColor=000000)
-
-`React` `Node` `Octokit` `Gemini API`
-
-</td>
-<td width="33%" valign="top">
-
-### ⟶ FINORA
-**Catches what you'd miss.**
-
-Unsupervised ML engine hunting anomalies in financial transactions
-— 82-85% accuracy, live Plotly dashboard, results in under 4
-seconds flat.
-
-![](https://img.shields.io/badge/82--85%25_ACCURACY-2AFADF?style=flat-square&labelColor=000000)
-
-`Scikit-learn` `Pandas` `Flask` `Plotly`
-
-</td>
-<td width="33%" valign="top">
-
-### ⟶ RELAYIQ
-**Support that never sleeps.**
-
-Multi-agent risk-scoring pipeline auto-resolving safe tickets
-after hours, routing the risky ones to humans. 24/7 coverage,
-zero chaos.
-
-![](https://img.shields.io/badge/24%2F7_AUTONOMOUS-7928CA?style=flat-square&labelColor=000000)
-
-`React.js` `TypeScript` `Vite` `Figma`
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/svg/Bottom.svg" width="100%"/>
-
-## THE STACK
+```ansi
+[0;35m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;36m│  root@surya:~$ [0;32mcat stack.json[0m                                        [0;35m│[0m
+[0;35m└──────────────────────────────────────────────────────────────────┘[0m
+```
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nodejs,express,mongodb,postgres,mysql,tailwind,figma,git,github,vercel&theme=dark&perline=16"/>
-
-<br/><br/>
-
-<sub><b>ML/Data</b> — Scikit-learn · Pandas · NumPy &nbsp;&nbsp;|&nbsp;&nbsp; <b>Auth</b> — OAuth · JWT &nbsp;&nbsp;|&nbsp;&nbsp; <b>Deploy</b> — Render · Vercel</sub>
-
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/svg/Bottom.svg" width="100%"/>
-
-## THE RECEIPTS
+```ansi
+[0;35m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;36m│  root@surya:~$ [0;32mgit log --stats --all[0m                                [0;35m│[0m
+[0;35m└──────────────────────────────────────────────────────────────────┘[0m
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surya-18vs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=FF0080&icon_color=2AFADF&text_color=ffffff&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-18vs&theme=radical&hide_border=true&background=0D0221&ring=FF0080&fire=2AFADF&currStreakLabel=2AFADF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=surya-18vs&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=FF00E6&icon_color=00D9FF&text_color=39FF14&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-18vs&theme=synthwave&hide_border=true&background=0a0a0a&ring=FF00E6&fire=00D9FF&currStreakLabel=39FF14" width="48%"/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-18vs&theme=synthwave&hide_border=true&bg_color=0a0a0a&color=39FF14&line=FF00E6&point=00D9FF" width="97%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-18vs&theme=react-dark&hide_border=true&bg_color=0d0221&color=2AFADF&line=FF0080&point=ffffff" width="97%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-18vs&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=FF0080&text_color=ffffff" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-18vs&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=FF00E6&text_color=39FF14" width="45%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=surya-18vs&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="52%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/svg/Bottom.svg" width="100%"/>
+```ansi
+[0;35m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;36m│  root@surya:~$ [0;32mping surya --contact[0m                                 [0;35m│[0m
+[0;35m└──────────────────────────────────────────────────────────────────┘[0m
+```
 
 <div align="center">
 
-## LET'S TALK
+[![GitHub](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/surya-18vs)
+[![Gmail](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF00E6)](mailto:suryasaravanan0180@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=00D9FF)](https://leetcode.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0080)](https://github.com/surya-18vs)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=2AFADF)](mailto:suryasaravanan0180@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=7928CA)](https://leetcode.com/)
+<br/><br/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2AFADF,75:7928CA,100:FF0080&height=150&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=99999&color=555555&center=true&vCenter=true&width=400&lines=%2F%2F+connection+terminated" alt="footer"/>
 
 </div>
