@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=1&pause=99999&color=39FF14&center=true&vCenter=true&width=850&height=100&lines=SURYA+SARAVANAN" alt="Glitch Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=600&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+full-stack.exe+%2B+machine_learning.dll+loaded;%3E+shipping+DeployX+%2F+Finora+%2F+RelayIQ;%3E+leetcode_rank%3A+KNIGHT+%5B2002%5D+%5Btop+8%25%5D;%3E+access_level%3A+internship_ready" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=600&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+full-stack.exe+%2B+machine_learning.dll+loaded;%3E+shipping+DeployX+%2F+Finora+%2F+RelayIQ;%3E+leetcode_rank%3A+KNIGHT+%5B2002%5D+%5Btop+8%25%5D;%3E+access_level%3A+internship_ready" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/ABOUT-000000?style=for-the-badge&logo=matrix&logoColor=39FF14&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-ABOUT-39FF14?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/>
 </div>
 
 <br/>
@@ -35,7 +35,7 @@ top `8%` globally, `600+` problems cleared.
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=rocket&logoColor=FF00E6&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-PROJECTS-FF00E6?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ top `8%` globally, `600+` problems cleared.
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/DEPLOYX-0a0a0a?style=for-the-badge&logoColor=39FF14&labelColor=39FF14&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/DEPLOYX-39FF14?style=for-the-badge&labelColor=39FF14&color=0a0a0a"/>
 
 <sub>deployment automation</sub>
 
@@ -55,12 +55,12 @@ AI diagnoses failed builds.
 `10x faster` `Gemini API`
 
 ![](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00F0FF)
-![](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=39FF14)
+![](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=39FF14)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/FINORA-0a0a0a?style=for-the-badge&logoColor=FF00E6&labelColor=FF00E6&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/FINORA-FF00E6?style=for-the-badge&labelColor=FF00E6&color=0a0a0a"/>
 
 <sub>anomaly detection engine</sub>
 
@@ -76,7 +76,7 @@ irregular transactions —
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/RELAYIQ-0a0a0a?style=for-the-badge&logoColor=00F0FF&labelColor=00F0FF&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/RELAYIQ-00F0FF?style=for-the-badge&labelColor=00F0FF&color=0a0a0a"/>
 
 <sub>support continuity platform</sub>
 
@@ -96,7 +96,7 @@ human review on high-risk.
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/STACK-000000?style=for-the-badge&logo=hackthebox&logoColor=00F0FF&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-STACK-00F0FF?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/>
 </div>
 
 <br/>
@@ -108,7 +108,7 @@ human review on high-risk.
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-CONTRIBUTIONS-39FF14?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/>
 </div>
 
 <br/>
@@ -120,7 +120,7 @@ human review on high-risk.
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/STATS-000000?style=for-the-badge&logo=statuspage&logoColor=FF00E6&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-STATS-FF00E6?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/>
 </div>
 
 <br/>
@@ -140,7 +140,7 @@ human review on high-risk.
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/CONNECT-000000?style=for-the-badge&logo=wire&logoColor=00F0FF&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/-CONNECT-00F0FF?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a"/>
 </div>
 
 <br/>
@@ -153,6 +153,6 @@ human review on high-risk.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=13&duration=1&pause=99999&color=555555&center=true&vCenter=true&width=400&lines=%2F%2F+connection+terminated" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1&pause=99999&color=555555&center=true&vCenter=true&width=400&lines=%2F%2F+connection+terminated" alt="footer"/>
 
 </div>
