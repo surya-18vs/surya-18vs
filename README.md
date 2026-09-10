@@ -84,7 +84,7 @@ Multi-agent risk triage —
 24/7 autonomous resolution,
 human review on high-risk.
 
-`Vite 8` `Figma`
+
 
 ![](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=00F0FF)
 ![](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=39FF14)
